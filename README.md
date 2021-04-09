@@ -4,4 +4,11 @@ Code examples for creating custom icons with an LCD and Arduino using parallel o
 
 ## I2C_communication
 
---> Examples using serial communication with the `<LiquidCrystal_I2C.h>` and `<Wire.h>` libraries.
+--> Examples using serial communication with the `<LiquidCrystal_I2C.h>` and `<Wire.h>` libraries. Conections:
+
+| Arduino Uno | LCD display |
+|:-----------:|:-----------:|
+|      5V     |     VCC     |
+|     GND     |     GND     |
+|  SDA or A4  |     SDA     |
+|  SCL or A5  |     SCL     |
