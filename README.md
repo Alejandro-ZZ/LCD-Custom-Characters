@@ -31,7 +31,8 @@ Code examples for creating custom icons with an LCD and Arduino using parallel o
 |    Pin 2    |      D7     |
 |     GND     |     R/W     |
 
-Aditional you have to conect a 10k potentiometer as follows:
+Additional you have to connect a 10k potentiometer as follows: 
 
 **1.** Ends pins to +5V and GND
+
 **2.** Wiper pin to the LCD VO pin (pin 3)
