@@ -1,6 +1,6 @@
 # Creation of custom characters for an LCD display
 
-Code examples for creating custom icons with an LCD and Arduino using parallel or I2C communication. The icons are created with an Excel file (`Custom_Characters_LCD.xlsx`)that allows you to create them with a size of 1 to 6 characters.
+Code examples for creating custom icons with an LCD and Arduino using parallel or I2C communication. The icons are created with an Excel file (`Custom_Characters_LCD.xlsx`) that allows you to create them with a size of 1 to 6 characters.
 
 ## I2C_communication
 
